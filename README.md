@@ -9,8 +9,6 @@ A collection of curated resources on Large Language Models (LLMs) and their appl
 - [Agents](#agents)
 - [RAGs](#rags)
 - [Deployments](#deployments)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Foundations
 

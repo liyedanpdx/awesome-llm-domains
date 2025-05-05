@@ -2,14 +2,6 @@
 
 A curated collection of resources on Large Language Models (LLMs) and their application domains, featuring easy-to-digest introductions to foundational concepts and state-of-the-art developments. This repository is continuously updated with knowledge and insights I’ve gained through learning and research.
 
-## Table of Contents
-
-- [Foundations](#foundations)
-- [Models](#models)
-- [Agents](#agents)
-- [RAGs](#rags)
-- [Deployments](#deployments)
-
 ## Foundations
 
 - [Architecture](Foundations/Architecture.md)

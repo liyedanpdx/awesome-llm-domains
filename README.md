@@ -1,8 +1,12 @@
 # Awesome LLM Domains
 
-📖 **[Read Online on GitBook](https://paradx.gitbook.io/awesome-llm-domains-1/)**
-
 A curated collection of resources on Large Language Models (LLMs) and their application domains, featuring easy-to-digest introductions to foundational concepts and state-of-the-art developments. This repository is continuously updated with knowledge and insights I've gained through learning and research.
+
+## 📚 Documentation
+
+[![Documentation](https://img.shields.io/badge/📖_Documentation-GitBook-blue?style=flat-square)](https://paradx.gitbook.io/awesome-llm-domains-1/)
+
+> **📘 Complete Documentation Available**: Visit the [GitBook documentation](https://paradx.gitbook.io/awesome-llm-domains-1/) for comprehensive guides, tutorials, and detailed explanations of all LLM concepts and implementations.
 
 ## Foundations
 
